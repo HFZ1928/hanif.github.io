@@ -12,7 +12,7 @@
  
 	.jam-digital-malasngoding {
 		overflow: hidden;
-		width: 280px;
+		width: 300px;
 		margin: 20px auto;
 		border: 5px solid #efefef;
 	}
@@ -51,10 +51,10 @@
 
     <br> <br> <br>
 	<h1>Halo, Selamat Pagi :)</h1>
+	 <a href="https://www.instagram.com/haniffz28/"><i> Hanif Fz
 	<div class="navbar nav-center bg-transparent fixed-bottom">
         <div class="text-white">
-        <h5>	© <?php echo date('Y'); ?> Copyright :
-            <a href="https://www.instagram.com/haniffz28/"><i> Hanif Fz
+           
                 <audio src="sheila.mp3" autoplay="autoplay"></audio>
      
    
