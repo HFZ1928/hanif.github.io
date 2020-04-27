@@ -12,28 +12,28 @@
  
 	.jam-digital-malasngoding {
 		overflow: hidden;
-		width: 330px;
+		width: 280px;
 		margin: 20px auto;
 		border: 5px solid #efefef;
 	}
 	.kotak{
 		float: left;
-		width: 110px;
-		height: 100px;
+		width: 90px;
+		height: 80px;
 		background-color: #189fff;
 	}
 	.jam-digital-malasngoding p {
 		color: #fff;
-		font-size: 36px;
+		font-size: 34px;
 		text-align: center;
-		margin-top: 30px;
+		margin-top: 28px;
 	}
  
  
 </style>
  
 
-<br><br><br><br><br><br></b>
+<br><br><br>
 <div class="jam-digital-malasngoding">
 	<div class="kotak">
 		<p id="jam"></p>
@@ -53,14 +53,13 @@
     
 
     <br> <br> <br>
-	<h1>Halo, Selamat Malam :)</h1>
+	<h1>Halo, Selamat Pagi :)</h1>
 	<div class="navbar nav-center bg-transparent fixed-bottom">
         <div class="text-white">
         <h5>	© <?php echo date('Y'); ?> Copyright :
-            <a href="https://www.instagram.com/haniffz28/"><i> Hanif Fz</a></h5>
+            <a href="https://www.instagram.com/haniffz28/"><i> Hanif Fz
                 <audio src="sheila.mp3" autoplay="autoplay"></audio>
-        </div>
-    </div>
+     
    
 </center>
 <script>
