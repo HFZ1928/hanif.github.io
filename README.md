@@ -61,7 +61,7 @@
                 <audio src="sheila.mp3" autoplay="autoplay"></audio>
      
    
-</center>
+
 <script>
 	window.setTimeout("waktu()", 1000);
  
