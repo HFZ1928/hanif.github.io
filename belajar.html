@@ -3,7 +3,7 @@
 	<title>Website Hanif fz</title>
 </head>
 <body>
-	<p align="left"><a href="hanif.github.io"> klik me </p></a>
+	<p align="left">klik link diatas ^^</a>
 	<style>
 	h1,h2,p,a{
 		font-family: sans-serif;
