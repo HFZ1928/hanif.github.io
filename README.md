@@ -12,7 +12,7 @@
  
 	.jam-digital-malasngoding {
 		overflow: hidden;
-		width: 350px;
+		width: 310px;
 		margin: 20px auto;
 		border: 5px solid #efefef;
 	}
@@ -24,9 +24,9 @@
 	}
 	.jam-digital-malasngoding p {
 		color: #fff;
-		font-size: 34px;
+		font-size: 38px;
 		text-align: center;
-		margin-top: 28px;
+		margin-top: 20px;
 	}
  
  
